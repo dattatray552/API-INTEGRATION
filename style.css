@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #b2c6f0;
+}
+header {
+    background-color: #007bff;
+    color: rgb(255, 255, 255);
+    padding: 1rem;
+}
+.container {
+    padding: 3rem;
+    margin-left: ;
+}
+.weather-info {
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+}
+button{
+    color: brown;
+}
+    
+    
+   
